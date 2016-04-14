@@ -1,0 +1,28 @@
+name: amirkhan
+favicon: null
+layout_spectrum: 0.5001445352099836
+typography_spectrum: 0.5633432483300567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1439765056129545
+  lightness: 0.8741338266991079
+  saturation: 0.6079919040203094
+  rhythmicContrast: 0.23618563171476126
+purpose: []
